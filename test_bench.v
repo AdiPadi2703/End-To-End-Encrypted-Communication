@@ -1,19 +1,19 @@
 module testbench;
 
-    reg [24:0] p;
-    reg [24:0] q;
-    reg [24:0] p_;
-    reg [24:0] q_;
-    reg [24:0] letter;
-    wire [24:0] n;
-    reg [24:0] e;
-    reg [24:0] d;
-    wire [24:0] phi;
-    wire [24:0] en_letter;
-    wire [24:0] de_letter;
+    reg [25:0] p;
+    reg [25:0] q;
+    reg [25:0] p_;
+    reg [25:0] q_;
+    reg [25:0] letter;
+    wire [25:0] n;
+    reg [25:0] e;
+    reg [25:0] d;
+    wire [25:0] phi;
+    wire [25:0] en_letter;
+   wire [25:0] de_letter;
 
     sixteenbitmultiplier m1(p,q,n);
-    sixteenbitmultiplier m2(p-24'd1,q-24'd1,phi);
+    sixteenbitmultiplier m2(p-26'd1,q-26'd1,phi);
     encryptor en(e,n,letter,en_letter);
     decryptor de(d,n,en_letter,letter,de_letter);
 
@@ -23,13 +23,13 @@ module testbench;
     end
 
     initial begin
-       p =24'd3;
-       q =24'd7;
-       e =24'd5;
-       d =24'd5;
-       $display("Input letter number (a = 1)      Decrypted after encryption");
+       p =26'd5;
+       q =26'd7;
+       e =26'd5;
+       d =26'd5;
+       $display("Input letter number (a = 0)      Decrypted after encryption");
        $display("-----------------------------------------------------------");
-       for(letter =24'd1;letter <24'd27;letter = letter +24'd1)begin
+       for(letter =26'd0;letter <26'd26;letter = letter +26'd1)begin
             $display("          %d                 %d",letter,de_letter);
        end
     end
