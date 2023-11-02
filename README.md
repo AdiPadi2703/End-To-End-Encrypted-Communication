@@ -71,8 +71,8 @@
 <details>
   <summary>Verilog Code</summary>
   <br>
-  ```verilog
-  module sixteenbitmultiplier(input[25:0] p,q,output[25:0] n);
+```verilog
+module sixteenbitmultiplier(input[25:0] p,q,output[25:0] n);
 
    assign n = p*q;
 
