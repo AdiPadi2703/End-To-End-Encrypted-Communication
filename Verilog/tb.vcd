@@ -1,0 +1,87 @@
+$date
+	Thu Nov  2 20:33:15 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module testbench $end
+$var wire 26 ! phi [25:0] $end
+$var wire 26 " n [25:0] $end
+$var wire 26 # en_letter [25:0] $end
+$var wire 26 $ e [25:0] $end
+$var wire 26 % de_letter [25:0] $end
+$var wire 26 & d [25:0] $end
+$var reg 1 ' clk $end
+$var reg 26 ( letter [25:0] $end
+$var reg 26 ) p [25:0] $end
+$var reg 26 * q [25:0] $end
+$scope module de $end
+$var wire 26 + letter [25:0] $end
+$var wire 26 , n [25:0] $end
+$var wire 26 - en_letter [25:0] $end
+$var wire 26 . de_letter [25:0] $end
+$var wire 26 / d [25:0] $end
+$upscope $end
+$scope module en $end
+$var wire 26 0 letter [25:0] $end
+$var wire 26 1 n [25:0] $end
+$var wire 26 2 en_letter [25:0] $end
+$var wire 26 3 e [25:0] $end
+$upscope $end
+$scope module kg $end
+$var wire 1 ' clk $end
+$var wire 26 4 e [25:0] $end
+$var wire 26 5 phi [25:0] $end
+$var wire 26 6 d [25:0] $end
+$var reg 26 7 i [25:0] $end
+$var reg 26 8 p [25:0] $end
+$upscope $end
+$scope module m1 $end
+$var wire 26 9 p [25:0] $end
+$var wire 26 : q [25:0] $end
+$var wire 26 ; n [25:0] $end
+$upscope $end
+$scope module m2 $end
+$var wire 26 < p [25:0] $end
+$var wire 26 = q [25:0] $end
+$var wire 26 > n [25:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b11000 >
+b110 =
+b100 <
+b100011 ;
+b111 :
+b101 9
+b11000 8
+b101 7
+b101 6
+b11000 5
+b101 4
+b101 3
+b11111 2
+b100011 1
+b11010 0
+b101 /
+b11010 .
+b11111 -
+b100011 ,
+b11010 +
+b111 *
+b101 )
+b11010 (
+x'
+b101 &
+b11010 %
+b101 $
+b11111 #
+b100011 "
+b11000 !
+$end
+#400
