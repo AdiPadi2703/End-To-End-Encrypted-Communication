@@ -148,10 +148,3 @@ endmodule
 ```
 
 </details>
-
-<details>
-	<summary>Video Implementation</summary>
-	<img src="https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/c9469ecd-bc5e-41a3-b5bb-24908eb961d2">
-
-</details>
-1
