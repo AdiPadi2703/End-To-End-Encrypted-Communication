@@ -71,7 +71,7 @@
 <details>
   <summary>Verilog Code</summary>
   <br>
-```verilog
+```
 module sixteenbitmultiplier(input[25:0] p,q,output[25:0] n);
 
    assign n = p*q;
@@ -104,6 +104,6 @@ module decryptor(input[25:0] d,n,en_letter,letter, output[25:0] de_letter);
 
 endmodule
 ```
-  
+
 </details>
 
