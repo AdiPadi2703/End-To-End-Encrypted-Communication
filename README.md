@@ -11,7 +11,7 @@
   <br>
   Member 2: Akshat Mishra
   <br>
-  Member 3: Hemang J Jamadagni
+  Member 3: Hemang J Jamadagni, 221CS129,hemangj.221cs129@nitk.edu.in
 </details>
 
 <details>
