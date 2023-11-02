@@ -70,8 +70,10 @@
 
 <details>
   <summary>Verilog Code</summary>
-  <br>
-```
+  
+<br>
+	
+```Verilog
 module sixteenbitmultiplier(input[25:0] p,q,output[25:0] n);
 
    assign n = p*q;
