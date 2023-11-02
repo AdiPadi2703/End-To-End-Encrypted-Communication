@@ -33,13 +33,16 @@
   <br>
   Functional Table:
   <br>
-  <img src = Screenshots/Functional%Table.png>
+  <br>
+  <img src = https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/blob/main/Screenshots/Functional%20Table.png>
 </details>
 
 <details>
   <summary>Logisim Circuit Diagram</summary>
   <br>
   Main Diagram:
+  <br>
+  <br>
   <img src = Screenshots/ModulatedCircuit.png>
   <br>
   <br>
