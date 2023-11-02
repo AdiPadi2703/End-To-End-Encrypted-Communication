@@ -148,8 +148,6 @@ endmodule
 ```
 
 </details>
-<details>
-<summary>Video Implementation</summary>
-	[rsaImplementation.webm](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/ab7bfe78-d34e-4a2c-9249-af93827ed2c1)
 
-</details>
+#Video Implementation
+	[rsaImplementation.webm](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/ab7bfe78-d34e-4a2c-9249-af93827ed2c1)
