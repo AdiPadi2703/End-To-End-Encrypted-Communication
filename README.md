@@ -32,13 +32,36 @@
   <summary>Working</summary>
   <br>
   Functional Table:
-  <img src = https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/54d6c256-5d83-4262-a56e-6def6bcb77b3>
+  <br>
+  <img src = Screenshots/Functional%Table.png>
 </details>
 
 <details>
   <summary>Logisim Circuit Diagram</summary>
-  <img src = >
   <br>
+  Main Diagram:
+  <img src = Screenshots/ModulatedCircuit.png>
+  <br>
+  <br>
+  <br>
+  Key Generator:
+  <br>
+  <br>
+  <img src = Screenshots/KeyGen.png>
+  <br>
+  <br>
+  <br>
+  Encrypter:
+  <br>
+  <br>
+  <img src = Screenshots/Encrypter.png>
+  <br>
+  <br>
+  <br>
+  Decrypter:
+  <br>
+  <br>
+  <img src = Screenshots/Decrypter.png>
   
 </details>
 
