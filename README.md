@@ -9,7 +9,7 @@
   <br>
   Member 1: Adithya S Ubaradka, 221CS105, adithyau.221cs105@nitk.edu.in
   <br>
-  Member 2: Akshat Mishra
+  Member 2: Akshat Mishra, 221CS107, akshatmishra.221cs107@nitk.edu.in
   <br>
   Member 3: Hemang J Jamadagni, 221CS129,hemangj.221cs129@nitk.edu.in
 </details>
