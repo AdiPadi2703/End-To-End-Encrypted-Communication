@@ -157,6 +157,5 @@ endmodule
 
 <details>
 	<summary>Hardware implementation</summary>
-<img src=https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/7f7cbd7d-04ed-4901-af86-23811f0c7e5a>
-
+<img src=https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/2e8fa0e0-aa3c-418b-9683-5e74cdf8ed44>
 </details>
