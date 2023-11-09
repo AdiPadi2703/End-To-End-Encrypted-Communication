@@ -154,3 +154,9 @@ endmodule
  
 [rsaImplementation.webm](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/1739e072-6e1f-4878-9e07-033f6252e1eb)
 </details>
+
+<details>
+	<summary>Hardware implementation</summary>
+![image](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/7f7cbd7d-04ed-4901-af86-23811f0c7e5a)
+
+</details>
