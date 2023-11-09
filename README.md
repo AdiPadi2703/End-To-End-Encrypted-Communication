@@ -157,6 +157,5 @@ endmodule
 
 <details>
 	<summary>Hardware implementation</summary>
-	<img src=https://github-production-user-asset-6210df.s3.amazonaws.com/120291477/281792336-e00a6839-ba41-49a6-818d-15d13b37a7e0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231109T155957Z&X-Amz-Expires=300&X-Amz-Signature=d6bae255c21e7f9947b08c0a802fc1d2d3a88cf605f3f1c7b5033391a4b28927&X-Amz-SignedHeaders=host&actor_id=120291477&key_id=0&repo_id=702162000>
-
+	<img src=https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/6c38c12d-eda5-451c-bba3-04e2b84af4fc>
 </details>
