@@ -1,7 +1,7 @@
 # End-To-End-Encrypted-Communication
-
+# Team Details
 <details>
-  <summary>Team Details</summary>
+  <summary>details</summary>
   <br>
   Semester: 3rd Semester B.Tech CSE
   <br>
@@ -14,8 +14,9 @@
   Member 3: Hemang J Jamadagni, 221CS129, hemangj.221cs129@nitk.edu.in
 </details>
 
+# Abstract
 <details>
-  <summary>Abstract</summary>
+  <summary>details</summary>
   <br>
   The process of encoding information, which is conversion of the original representation of the information 
   known as ‘plain text’, into an alternative form known as ‘cipher text’ is called encryption.
@@ -28,8 +29,9 @@
   The goal of this project is to design a system of units that communicate between each other via end-to-end encryption. The RSA            encryption algorithm will be used and the user will be able to choose the kind of encryption. The aim is to achieve secure                communication between two digital systems.
 </details>
 
+# Working
 <details>
-  <summary>Working</summary>
+  <summary>details</summary>
   <br>
   Functional Table:
   <br>
@@ -37,8 +39,9 @@
   <img src = https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/blob/main/Screenshots/Functional%20Table.png>
 </details>
 
+# Logisim Circuit diagram 
 <details>
-  <summary>Logisim Circuit Diagram</summary>
+  <summary>details</summary>
   <br>
   Main Diagram:
   <br>
@@ -68,8 +71,9 @@
   
 </details>
 
+# Verilog Code
 <details>
-  <summary>Verilog Code</summary>
+  <summary>details</summary>
   
 ```Verilog
 module sixteenbitmultiplier(input[25:0] p,q,output[25:0] n);
@@ -149,13 +153,15 @@ endmodule
 
 </details>
 
+# Video Implementation 
 <details>
-	<summary>Video Implementation</summary>
+	<summary>Video</summary>
  
 [rsaImplementation.webm](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/1739e072-6e1f-4878-9e07-033f6252e1eb)
 </details>
 
+# Hardware Implementation 
 <details>
-	<summary>Hardware implementation</summary>
+	<summary>details</summary>
 	<img src=https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/6c38c12d-eda5-451c-bba3-04e2b84af4fc>
 </details>
