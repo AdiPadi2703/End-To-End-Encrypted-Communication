@@ -1,5 +1,5 @@
 # End-To-End-Encrypted-Communication
-# Team Details
+## Team Details
 <details>
   <summary>details</summary>
   <br>
