@@ -14,7 +14,7 @@
   Member 3: Hemang J Jamadagni, 221CS129, hemangj.221cs129@nitk.edu.in
 </details>
 
-# Abstract
+## Abstract
 <details>
   <summary>details</summary>
   <br>
@@ -29,7 +29,7 @@
   The goal of this project is to design a system of units that communicate between each other via end-to-end encryption. The RSA            encryption algorithm will be used and the user will be able to choose the kind of encryption. The aim is to achieve secure                communication between two digital systems.
 </details>
 
-# Working
+## Working
 <details>
   <summary>details</summary>
   <br>
@@ -39,7 +39,7 @@
   <img src = https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/blob/main/Screenshots/Functional%20Table.png>
 </details>
 
-# Logisim Circuit diagram 
+## Logisim Circuit diagram 
 <details>
   <summary>details</summary>
   <br>
@@ -71,7 +71,7 @@
   
 </details>
 
-# Verilog Code
+## Verilog Code
 <details>
   <summary>details</summary>
   
@@ -153,7 +153,7 @@ endmodule
 
 </details>
 
-# Video Implementation 
+## Video Implementation 
 <details>
 	<summary>Video</summary>
  
