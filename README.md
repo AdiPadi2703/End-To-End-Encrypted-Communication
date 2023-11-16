@@ -153,14 +153,14 @@ endmodule
 
 </details>
 
-## Video Implementation 
+## Video
 <details>
-	<summary>Video</summary>
+	<summary>details</summary>
  
 [rsaImplementation.webm](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/1739e072-6e1f-4878-9e07-033f6252e1eb)
 </details>
 
-# Hardware Implementation 
+## Hardware Implementation 
 <details>
 	<summary>details</summary>
 	<img src=https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/6c38c12d-eda5-451c-bba3-04e2b84af4fc>
