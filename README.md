@@ -1,4 +1,4 @@
-# End-To-End-Encrypted-Communication
+# End-To-End Encrypted Communication
 ## Team Details
 <details>
   <summary>details</summary>
