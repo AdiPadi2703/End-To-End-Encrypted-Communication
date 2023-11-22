@@ -158,7 +158,12 @@ endmodule
 	<summary>details</summary>
 	
 Logisim Implementation Video:
-https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/badb38b1-d689-41a8-994f-eb0eb18cd21a
+<br>
+
+
+https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/a5b53006-85e1-4fbc-9b32-428c0ae0e10f
+
+
 
 <br>
 <br>
