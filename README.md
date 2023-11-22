@@ -220,7 +220,7 @@ https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/1202914
 
 <br><br>
 
-Notes for the Hardware Implementation video:<br><br>In the video, the first switch represents "Enable Decrypt" and not "Load Decrypt" which was incorrectly mentioned.<br><br>It should also be noted that since the public key is 15, 0%15 and 1%15 remain 0 and 1. This is the second part of the reason for why 0 and 1 remain the same during encryption and decryption, which wasn't mentioned in the video.<br>
+Notes for the Hardware Implementation video:<br><br>In the video, the first switch represents "Enable Decrypt" and not "Load Decrypt" which was incorrectly mentioned.<br><br>It should also be noted that since the public key is 15, 0%15 and 1%15 remain 0 and 1. This is the second part of the reason for why 0 and 1 remain the same during encryption and decryption, which wasn't mentioned in the video.<br><br>The clock in the video was connected to 10Hz and not 15Hz.<br><br>
 
 
 </details>
