@@ -153,12 +153,18 @@ endmodule
 
 </details>
 
-## Video
+## Videos
 <details>
 	<summary>details</summary>
 	
-
+## Logsim Implementation Video
 https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication/assets/120291477/badb38b1-d689-41a8-994f-eb0eb18cd21a
+
+<br>
+<br>
+## Hardware Implementation Video
+
+
 
 
 </details>
